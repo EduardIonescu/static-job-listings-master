@@ -1,6 +1,6 @@
 ### Links
 
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live Site URL: [Click to see webpage](https://eduardionescu.github.io/static-job-listings-master/)
 
 # Frontend Mentor - Job listings with filtering solution
 
