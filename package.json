@@ -1,0 +1,24 @@
+{
+  "name": "static-job-listings-master",
+  "version": "1.0.0",
+  "description": "-   Live Site URL: [Add live site URL here](https://your-live-site-url.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardIonescu/static-job-listings-master.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardIonescu/static-job-listings-master/issues"
+  },
+  "homepage": "https://github.com/EduardIonescu/static-job-listings-master#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}
